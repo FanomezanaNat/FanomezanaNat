@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&size=25&duration=3500&pause=500&color=47BBDA&center=true&vCenter=true&width=435&lines=Welcome%2C;i'm+Fanomezana+Nathana%C3%ABl" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&size=25&duration=3500&pause=500&color=47BBDA&center=true&vCenter=true&width=435&lines=i'm+Fanomezana+Nathana%C3%ABl" alt="Typing SVG" /></a>
 </p>
 <br>
 	
